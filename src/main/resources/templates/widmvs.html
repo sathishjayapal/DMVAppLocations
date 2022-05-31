@@ -1,0 +1,40 @@
+<html xmlns:th="http://www.thymeleaf.org">
+<head>
+    <title>All WI DMVs</title>
+    <link href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css" rel="stylesheet"/>
+</head>
+<body>
+<div class="container">
+    <div class="row">
+        <div class="col-md-12">
+            <h1> WI DMVs </h1>
+        </div>
+    </div>
+    <div class="row">
+        <div class="col-md-6">
+            <table class="table">
+                <thead>
+                <tr>
+                    <th> Name</th>
+                    <th> Address</th>
+                    <th> ZipCode</th>
+                    <th> County</th>
+                </tr>
+                </thead>
+                <tbody>
+                <tr th:if="${widmvs.empty}">
+                    <td colspan="2"> No DMV Data Available</td>
+                </tr>
+                <tr th:each="widmv : ${widmvs}">
+                    <td><span th:text="${widmv.dmvDesc}"> Name </span></td>
+                    <td><span th:text="${widmv.dmvAddress}"> Address </span></td>
+                    <td><span th:text="${widmv.dmvZipCode}"> ZipCode </span></td>
+                    <td><span th:text="${widmv.dmvCnty}"> County </span></td>
+                </tr>
+                </tbody>
+            </table>
+        </div>
+    </div>
+</div>
+</body>
+</html>

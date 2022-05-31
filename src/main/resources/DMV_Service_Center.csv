@@ -1,0 +1,91 @@
+﻿X,Y,OBJECTID,STN_ID,STN_DESC,DNV_STN_ADDR_STR,STN_ADDR_ADDL_STR2,DMV_ADDR_REF,DMV_STN_ZPCD,DMV_STN_POFC_NM,DMV_STN_TERR_ABBR,DMV_WI_CNTY_NM,STN_LOC_LNGT_DEG,STN_LOC_LAT_DEG,FLD_SC_NM
+367412.3707,429179.724400001,91,AL01,ALMA,407 S. 2nd Street,,,54610,Alma,WI,Buffalo,-91.913504,44.319853,Alma service center
+586499.8144,521239.7863,92,AN01,ANTIGO,2124 Clermont Street,,,54409,Antigo,WI,Langlade,-89.153877,45.161503,Antigo service center
+646267.1067,426041.5858,93,AP01,APPLETON,711 W. Association Drive,,,54914,Appleton,WI,Outagamie,-88.417186,44.296663,Appleton service center
+450272.573,678411.3343,94,AS01,ASHLAND,2501 Golf Course Road,,,54806,Ashland,WI,Ashland,-90.90998,46.575648,Ashland service center
+484932.8077,606703.8369,95,AS02,PARK FALLS,330 S. 4th Avenue,,,54552,Park Falls,WI,Price,-90.45233,45.933009,Park Falls service center
+504982.5994,665540.642200001,96,AS03,HURLEY,1200 State Hwy 51N,,(at Hwys 51 and 2 intersection),54534,Hurley,WI,Iron,-90.195581,46.46327,Hurley service center
+411516.0603,677912.2092,97,AS04,IRON RIVER,7615 Railroad Street,,,54847,Iron River,WI,Bayfield,-91.415527,46.566017,Iron River service center
+405786.5328,617350.252,98,AS05,HAYWARD,"15614 Windrose Lane, Suite 340",,,54843,Hayward,WI,Sawyer,-91.475553,46.0202,Hayward service center
+616444.7668,331801.402100001,99,BD01,BEAVER DAM,N7146 E. Plaza Drive,,,53916,Beaver Dam,WI,Dodge,-88.807962,43.452907,Beaver Dam service center
+603033.6568,228348.0967,100,BL01,BELOIT,1900 Sutler Avenue,,,53511,Beloit,WI,Rock,-88.989075,42.523054,Beloit service center
+605572.7558,566726.8594,101,CR01,CRANDON,110 S. Lake Avenue,,,54520,Crandon,WI,Forest,-88.903356,45.568818,Crandon service center
+404277.7111,488878.3302,102,EC01,EAU CLAIRE - MELBY ST.,3115 Melby Street,,,54703,Eau Claire,WI,Chippewa,-91.464808,44.863928,Eau Claire service center
+400744.8239,481148.6731,103,EC02,EAU CLAIRE SOUTH-W.CLAIREMONT,Eau Claire State Office Building,718 W. Clairemont Avenue,,54701,Eau Claire,WI,Eau Claire,-91.507697,44.793786,Eau Claire South service center
+639740.6943,243907.5472,104,EK01,ELKHORN,835 S. Lincoln Street,,,53121,Elkhorn,WI,Walworth,-88.539022,42.65832,Elkhorn service center
+577705.7395,604738.754000001,105,ER01,EAGLE RIVER,302 W. Pine Street,,,54521,Eagle River,WI,Vilas,-89.255913,45.913795,Eagle River service center
+642540.5753,366335.7423,106,FD01,FOND DU LAC,833 S. Rolling Meadows Drive,,,54937,Fond du Lac,WI,Fond du Lac,-88.477702,43.759933,Fond du Lac service center
+668033.1753,395916.0305,107,FD02,CHILTON,104 Southside Shopping Center,(on Chestnut Street),,53014,Chilton,WI,Calumet,-88.152949,44.021471,Chilton service center
+672989.5369,446799.9608,108,GB01,GREEN BAY,942 Vanderperren Way,,,54304,Green Bay,WI,Brown,-88.076269,44.478312,Green Bay service center
+306177.4937,500620.4027,109,HD01,HUDSON,"Business Park, Suite 100",2100 O'Neil Road,,54016,Hudson,WI,St. Croix,-92.710449,44.94685,Hudson service center
+320500.5341,519676.1502,110,HD05,NEW RICHMOND,Civic Center,156 E. 1st Street,,54017,New Richmond,WI,St. Croix,-92.536636,45.122383,New Richmond service center
+604182.5238,244861.493100001,111,JS01,JANESVILLE,645 S. Wright Road,,(near HWY 11/14 about 1/2 mile E of I90),53546,Janesville,WI,Rock,-88.97265,42.671621,Janesville service center
+547941.6357,236783.934800001,112,JS02,MONROE,815 1st Avenue,,,53566,Monroe,WI,Green,-89.659378,42.602978,Monroe service center
+691164.8479,237660.5463,113,KE01,KENOSHA,"4911 88th Avenue, Suite A",,(near the corner of Hwy H & State 158),53144,Kenosha,WI,Kenosha,-87.91381,42.592382,Kenosha service center
+425273.4693,379029.785,114,LAX1,LA CROSSE,9477 Hwy 16 East,,,54650,Onalaska,WI,La Crosse,-91.179099,43.878283,La Crosse area service center
+433080.8904,556721.625499999,115,LD01,LADYSMITH,"North Business Center, Suite 1",N5273 Hwy 27,,54848,Ladysmith,WI,Rusk,-91.112119,45.47861,Ladysmith service center
+493917.3093,517708.376800001,116,LD02,MEDFORD,624 S. 8th Street,,,54451,Medford,WI,Taylor,-90.331699,45.132367,Medford service center
+372604.7623,594441.725,117,LD03,SPOONER,W7074 Green Valley Road,,,54801,Spooner,WI,Washburn,-91.896988,45.807789,Spooner service center
+488945.9628,579257.4516,118,LD04,PHILLIPS,Municipal Center,174 S. Eyder Avenue,,54555,Phillips,WI,Price,-90.398799,45.686173,Phillips service center
+446395.3295,498903.7381,119,LD05,STANLEY,"Fire Hall, 239 E. 1st Avenue",,,54768,Stanley,WI,Chippewa,-90.933235,44.959759,Stanley service center
+558358.0256,289678.5241,120,MA01,MADISON WEST,8417 Excelsior Drive,,,53717,Madison,WI,Dane,-89.528795,43.078848,Madison West service center
+690150.1362,282270.2382,121,MBC1,MILWAUKEE CENTRAL - CHASE AVE.,2701 S. Chase Avenue,,,53207,Milwaukee,WI,Milwaukee,-87.912716,42.99407,Milwaukee-Central service center
+575143.7136,294995.071799999,122,ME01,MADISON EAST,2001 Bartillon Drive,,,53704,Madison,WI,Dane,-89.322077,43.125685,Madison East service center
+506422.6362,465335.1753,123,MF01,MARSHFIELD,503 S. Cherry Avenue,,,54449,Marshfield,WI,Wood,-90.171262,44.661252,Marshfield service center
+494756.5595,497128.928099999,124,MF02,ABBOTSFORD,City Hall,203 N. 1st Street,,54405,Abbotsford,WI,Clark,-90.319992,44.947147,Abbotsford service center
+689476.0996,287408.690099999,125,MIL1,MILWAUKEE DOWNTOWN,819 N. 6th Street,,,53203,Milwaukee,WI,Milwaukee,-87.919418,43.040462,Milwaukee-Downtown service center
+542757.6758,599704.3377,126,MI01,MINOCQUA,Community Center,415 Menominee Street,,54548,Minocqua,WI,Oneida,-89.706779,45.870529,Minocqua service center
+544548.8253,523040.351600001,127,ML01,MERRILL,"100 S. Mill Street, Suite 103",,,54452,Merrill,WI,Lincoln,-89.687545,45.180418,Merrill service center
+686414.4327,297082.2019,128,MNE1,MILWAUKEE NE - TEUTONIA AVE.,6073 N. Teutonia Ave.,,,53209,Milwaukee,WI,Milwaukee,-87.954085,43.128193,Milwaukee-Northeast service center
+682483.7837,297606.6073,129,MNW1,MILWAUKEE NW - MILL RD.,7301 W. Mill Road,,,53218,Milwaukee,WI,Milwaukee,-88.002226,43.133766,Milwaukee-Northwest service center
+363971.8461,463595.801100001,130,MN01,DURAND,116 W. Main Street,,,54736,Durand,WI,Pepin,-91.967003,44.62878,Durand service center
+324091.5539,476122.888,131,MN03,ELLSWORTH,179 E. Main Street,,,54011,Ellsworth,WI,Pierce,-92.474137,44.731688,Ellsworth service center
+370093.7795,491830.904899999,132,MN04,MENOMONIE,"393 Red Cedar Street, Suite 7",,,54751,Menomonie,WI,Dunn,-91.89817,44.884125,Menomonie service center
+334591.9616,538456.683,133,MN06,AMERY,950 Elden Avenue,,,54001,Amery,WI,Polk,-92.364614,45.295132,Amery service center
+698392.5826,511642.410700001,134,MR01,PESHTIGO,101 N. Ogden Road,,,54157,Peshtigo,WI,Marinette,-87.734375,45.055766,Peshtigo service center
+688297.6385,492544.3301,135,MR02,OCONTO,1008 Pecor Street,,,54153,Oconto,WI,Oconto,-87.868866,44.886436,Oconto service station
+654875.258,606628.5627,136,MR04,FLORENCE,Wild Rivers Interpretive Center,4793 Forestry Drive,(Intersection of Hwy 70/101 & US 2/141),54121,Florence,WI,Florence,-88.26065,45.919988,Florence service center
+693021.1046,275149.1469,137,MSE1,MILWAUKEE SE - COLLEGE AVE.,1835 College Avenue,,,53172,South Milwaukee,WI,Milwaukee,-87.879723,42.92934,South Milwaukee service center
+684580.7124,276701.0317,138,MSW1,MILWAUKEE SW - GRANGE AVE.,5500 W. Grange Avenue,,,53129,Greendale,WI,Milwaukee,-87.982635,42.945175,Milwaukee-Southwest service center
+704765.4633,402636.478700001,139,MT01,MANITOWOC,3651 Dewey St.,,,54220,Manitowoc,WI,Manitowoc,-87.692614,44.073604,Manitowoc service center
+632834.7696,396359.625399999,140,OK01,OSHKOSH,2301 Omro Road,,,54904,Oshkosh,WI,Winnebago,-88.591883,44.031719,Oshkosh service center
+483280.3378,250906.896,141,PL01,PLATTEVILLE,Highway 151 Industrial Park,31 Means Drive,,53818,Platteville,WI,Grant,-90.448541,42.729792,Platteville service center
+509309.0071,243894.5658,142,PL02,DARLINGTON,197 Christensen Drive,,,53530,Darlington,WI,Lafayette,-90.130463,42.667446,Darlington service center
+508991.8695,276954.7225,143,PL05,DODGEVILLE,Springate Mall,316 W. Spring Street,,53533,Dodgeville,WI,Iowa,-90.134979,42.96516,Dodgeville service center
+562566.0775,344008.1096,144,PR01,PORTAGE,2888 Village Road,,,53901,Portage,WI,Columbia,-89.472891,43.567818,Portage service center
+518111.7758,339998.242900001,145,PR02,REEDSBURG,Town Hall,600 W. Main Street,,53959,Reedsburg,WI,Sauk,-90.023369,43.532925,Reedsburg service center
+538676.0401,334200.763499999,146,PR03,BARABOO,1000 Log Lodge Court,,,53913,Baraboo,WI,Sauk,-89.769062,43.480492,Baraboo service center
+542201.5795,311156.938200001,147,PR04,SAUK CITY,Community Center,730 Monroe Street,,53583,Sauk City,WI,Sauk,-89.726402,43.2729,Sauk City service center
+691815.5369,251294.446900001,148,RA01,RACINE,9531 Rayne Road,,,53177,Sturtevant,WI,Racine,-87.901762,42.714937,Racine/Sturtevant service center
+490831.5801,316445.277799999,149,RC01,RICHLAND CENTER,"26136 Executive Lane, Suite A",,,53581,Richland Center,WI,Richland,-90.359732,43.320281,Richland Center service center
+428253.8309,284370.0305,150,RC03,PRAIRIE DU CHIEN,"65 Riverside Square, Suite 6",,,53821,Prairie du Chien,WI,Crawford,-91.126083,43.026475,Prairie du Chien service center
+448168.3178,345163.7183,151,RC06,VIROQUA,1316 N. Main Street,,,54665,Viroqua,WI,Vernon,-90.889633,43.575977,Viroqua service center
+563273.3857,573553.1324,152,RH01,RHINELANDER,State DOT Building,510 Hanson Lake Road,,54501,Rhinelander,WI,Oneida,-89.444793,45.634176,Rhinelander service center
+382182.0211,560949.4026,153,RL01,RICE LAKE,735 West Avenue (same as 19th Street),,,54868,Rice Lake,WI,Barron,-91.764298,45.508452,Rice Lake service center
+334967.386,593814.683700001,154,RL02,SIREN,24248 Highways 35/70,Unit A,,54872,Siren,WI,Burnett,-92.380764,45.793085,Siren service center
+326432.1448,569669.000299999,155,RL04,LUCK,Luck Lions Club,300 S. 1st Street,,54853,Luck,WI,Polk,-92.480861,45.573618,Luck service center
+700723.3383,367167.8519,156,SB01,SHEBOYGAN,3603 Kohler Memorial Drive,,(corner of 36th and the frontage road),53081,Sheboygan,WI,Sheboygan,-87.755088,43.755512,Sheboygan service center
+728144.1555,489104.973200001,157,SG01,STURGEON BAY,Bay Ridge Mall,1009 Egg Harbor Road,(same as Business 42/57),54235,Sturgeon Bay,WI,Door,-87.366188,44.844982,Sturgeon Bay service center
+723263.76,462626.3979,158,SG03,ALGOMA,514 4th Street,,,54201,Algoma,WI,Kewaunee,-87.438419,44.608259,Algoma service center
+632809.4936,479525.841700001,159,SH01,SHAWANO,1340 E. Green Bay St. (Hwy 29),,,54166,Shawano,WI,Shawano,-88.574127,44.780228,Shawano service center
+628734.5305,490497.512399999,160,SH07,KESHENA,W2727 Our Children's Road,,,54135,Keshena,WI,Menominee,-88.623269,44.8796,Keshena service center
+685732.8973,326143.0857,161,SK01,SAUKVILLE,501 N. Dekora Woods Blvd.,,,53080,Saukville,WI,Ozaukee,-87.953716,43.38986,Saukville service center
+359357.8924,697781.939999999,162,SP01,SUPERIOR,1701 N. 4th Street,,,54880,Superior,WI,Douglas,-92.102627,46.734269,Superior service center
+557874.2918,450374.4584,163,ST01,STEVENS POINT,1001 Maple Bluff Road,Suite 2,"(behind Target, off Hwy 10)",54481,Stevens Point,WI,Portage,-89.523371,44.525701,Stevens Point service center
+479577.343,392040.041099999,164,TM01,TOMAH,1021 N. Superior Ave.,,,54660,Tomah,WI,Monroe,-90.504189,44.000393,Tomah service center
+534532.363,387943.784399999,165,TM03,ADAMS,478 N. Oak Street,,,53910,Adams,WI,Adams,-89.818848,43.964481,Adams service center
+514052.7061,369226.956599999,166,TM04,MAUSTON,318 E. State Street,,,53948,Mauston,WI,Juneau,-90.073927,43.79608,Mauston service center
+560970.6548,379973.421599999,167,TM05,WESTFIELD,438 Industrial Drive,,,53964,Westfield,WI,Marquette,-89.489906,43.891724,Westfield service center
+665974.3459,326648.2676,168,WB01,WEST BEND,1516 W. Paradise Drive,,,53095,West Bend,WI,Washington,-88.197411,43.398511,West Bend service center
+413848.1434,433654.0767,169,WH01,WHITEHALL,36270 Tower Drive,Suite 400,,54773,Whitehall,WI,Trempealeau,-91.332285,44.368395,Whitehall service center
+472633.6025,454155.2092,170,WH02,NEILLSVILLE,400 Hewitt Street,,,54456,Neillsville,WI,Clark,-90.596424,44.559175,Neillsville service center
+453507.0198,425051.9957,171,WH03,BLACK RIVER FALLS,618 E. Main Street(Hwy 54),,,54615,Black River Falls,WI,Jackson,-90.833507,44.29568,Black River Falls service center
+585598.9465,483588.8835,172,WI01,WITTENBERG,Community Center,208 W. Vinal Street,,54499,Wittenberg,WI,Shawano,-89.170243,44.822692,Wittenberg service center
+661777.9174,287528.889599999,173,WK01,WAUKESHA,2019 Golf Road,,,53072,Pewaukee,WI,Waukesha,-88.259257,43.04722,Waukesha area service center
+591698.5611,431889.4254,174,WP01,WAUPACA,801 W. Fulton Street,,,54981,Waupaca,WI,Waupaca,-89.100307,44.356735,Waupaca service center
+606351.0641,389014.404899999,175,WP02,BERLIN,W832 State Road 91,,,54923,Berlin,WI,Green Lake,-88.923515,43.969193,Berlin service center
+576105.8421,400661.445,176,WP03,WAUTOMA,715 W. Main Street,,,54982,Wautoma,WI,Waushara,-89.299294,44.076979,Wautoma service center
+532464.6629,434089.9177,177,WR01,WISCONSIN RAPIDS,State Office Building,1681 2nd Avenue S.,,54495,Wisconsin Rapids,WI,Wood,-89.843528,44.379982,Wisconsin Rapids service center
+622381.3925,302672.2973,178,WT01,WATERTOWN,810 West Street,,,53094,Watertown,WI,Jefferson,-88.740035,43.189887,Watertown service center
+614876.7258,273617.9844,179,WT02,FORT ATKINSON,Municipal Building,101 N. Main Street,,53538,Fort Atkinson,WI,Jefferson,-88.837326,42.929287,Fort Atkinson service center
+547476.2946,492886.7908,180,WU01,WAUSAU,225051 Rib Mountain Drive,,,54401,Wausau,WI,Marathon,-89.651935,44.908877,Wausau service center
